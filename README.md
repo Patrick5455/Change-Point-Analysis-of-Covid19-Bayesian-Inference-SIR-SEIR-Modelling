@@ -4,7 +4,7 @@
 
 ### Business objective
 
-> The main business objective of this challenge is to quantify the statistical significance of a public health policy introduced by African governments to slow down the spread of COVID-19.
+> The main business objective of this task is to quantify the statistical significance of a public health policy introduced by African governments to slow down the spread of COVID-19.
 
 ### Situational Overview (Business Need)
 
